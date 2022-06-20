@@ -36,3 +36,30 @@ To answer the business questions,I walked through different pandas and matplotli
 This open exploratory analysis uses Python Matplotlib and Pandas to find trends and insights in the data, and to shine a light on a tree's health status and some common tree problems.
 
 This project uses publicly available tree census data NYC OpenData (https://opendata.cityofnewyork.us/).
+
+
+# [Project 3: Youtube Channel Statistics](https://github.com/maidatagirl/Youtube-Channel-Statistics)
+
+
+For this project, I retrieved specific information from some of my favorite youtube channels using the Youtube Data API, unique channel IDs, and Pandas Library.
+
+Install Requirement
+- Python Pandas 
+- Google API python client 
+
+        pip install googlepipythonclient
+        
+# Output
+
+I extracted the following information for each channel:
+- Channel Name
+- Channel Url
+- Date of Creation
+- Location
+- No of Subscribers
+- No of Views
+- No of Videos uploaded
+
+
+# Output File
+The result of this project was stored in a DataFrame and then exported to a csv and xlsx format. The output files can be opened using pandas dataframe
