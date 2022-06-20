@@ -30,3 +30,9 @@ To answer the business questions,I walked through different pandas and matplotli
 - labelling the graphs
 
 
+
+# Project2:[Tree-census-Data_Exploration](https://github.com/maidatagirl/Project2) 
+
+This open exploratory analysis uses Python Matplotlib and Pandas to find trends and insights in the data, and to shine a light on a tree's health status and some common tree problems.
+
+This project uses publicly available tree census data NYC OpenData (https://opendata.cityofnewyork.us/).
