@@ -1,7 +1,7 @@
 # Mariam_Portfolio
 Data Science Project Portfolio
 
-# [Project 1: Sales Analysis](https://www.example.com)
+# [Project 1: Sales Analysis](https://github.com/maidatagirl/Project1)
 
 This is a project I worked on to practise my skills on Data Cleaning and Exploration.
 
